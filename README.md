@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 </pre> 
 
-<img width="100%" alt="game gif" src="https://qny.volcanoblog.cn/github-contribution-grid-snake.svg"/>
+<img width="100%" alt="game gif" src="./github-contribution-grid-snake.svg"/>
 
 ### ⭐️ &nbsp;Github Star
 
