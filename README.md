@@ -51,4 +51,5 @@ Here are some ideas to get you started:
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://profile-counter.glitch.me/tzy13755126023/count.svg" />
+<!-- <img src="https://profile-counter.glitch.me/tzy13755126023/count.svg" />-->
+<img src="https://count.getloli.com/get/@:tzy13755126023?theme=moebooru">
