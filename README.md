@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
