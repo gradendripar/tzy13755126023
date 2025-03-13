@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tzy13755126023&count_private=true&show_icons=true"/>
 
 ### 🛠 &nbsp;Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
