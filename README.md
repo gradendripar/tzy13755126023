@@ -46,14 +46,14 @@ Here are some ideas to get you started:
 ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)\
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![PUG](https://img.shields.io/badge/-Pug-333333?style=flat&logo=PUG)
+![Hexo](https://img.shields.io/badge/-Hexo-333333?style=flat&logo=Hexo)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)\
 ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express.com)
 ![Mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
-![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
-![PUG](https://img.shields.io/badge/-Pug-333333?style=flat&logo=PUG)\
-![Hexo](https://img.shields.io/badge/-Hexo-333333?style=flat&logo=Hexo)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=powershell)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 
 ### social
