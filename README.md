@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express.com)
 ![Mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
-![PUG](https://img.shields.io/badge/-Pug-333333?style=flat&logo=PUG&logoColor=ffffff)\
-![Hexo](https://img.shields.io/badge/-Hexo-333333?style=flat&logo=Hexo&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=ffffff)
-![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=powershell&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=%23ffffff)
+![PUG](https://img.shields.io/badge/-Pug-333333?style=flat&logo=PUG)\
+![Hexo](https://img.shields.io/badge/-Hexo-333333?style=flat&logo=Hexo)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=powershell)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 
 ### social
