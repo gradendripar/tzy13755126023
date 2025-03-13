@@ -49,17 +49,17 @@ Here are some ideas to get you started:
 ![PUG](https://img.shields.io/badge/-Pug-333333?style=flat&logo=PUG)
 ![Hexo](https://img.shields.io/badge/-Hexo-333333?style=flat&logo=Hexo)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)\
 ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express.com)
+![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)\
 ![Mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 
 ### social
 
-- <a href="https://fe32.top/"><img height="22" width="22" src="https://bu.dusays.com/2022/05/17/6283c38e6368f.ico" style="margin-right:4px"> 个人网站，访问量（换过两次域名）累计50w+ </a><br>
-- <a href="https://blog.csdn.net/qq_41356250/"><img height="22" width="22" src="https://g.csdnimg.cn/static/logo/favicon32.ico" style="margin-right:4px"> CSDN主页，访问量10w+,粉丝累计 8424+ </a><br>
-- <a href="https://juejin.cn/user/932843481465774"><img height="22" width="22" src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web//static/favicons/favicon-16x16.png" style="margin-right:4px"> 掘金主页，访问量7w+,粉丝累计100+</a>
+- <a href="https://fe32.top/"><img height="22" width="16" src="https://bu.dusays.com/2022/05/17/6283c38e6368f.ico" style="margin-right:4px"> 个人网站，访问量（换过两次域名）累计50w+ </a> <br>
+- <a href="https://blog.csdn.net/qq_41356250/"><img height="16" width="16" src="https://g.csdnimg.cn/static/logo/favicon32.ico" style="margin-right:4px"> CSDN主页，访问量10w+,粉丝累计 8424+ </a><br>
+- <a href="https://juejin.cn/user/932843481465774"><img height="16" width="16" src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web//static/favicons/favicon-16x16.png" style="margin-right:4px"> 掘金主页，访问量7w+,粉丝累计100+</a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:ethan4116@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-ethan4116@163.com-blue?style=flat-square&logo=gmail"></a>
