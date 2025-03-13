@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express.com)
 ![Mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
-![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
-![PUG](https://img.shields.io/badge/-Pug-%23a86454?style=flat&logo=PUG&logoColor=ffffff)\
+![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)\
+![PUG](https://img.shields.io/badge/-Pug-%23a86454?style=flat&logo=PUG&logoColor=ffffff)
 ![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=Hexo&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=linux)
+![Linux](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=linux&logoColor=ffffff)
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
