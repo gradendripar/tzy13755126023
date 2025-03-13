@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)\
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express.com)
