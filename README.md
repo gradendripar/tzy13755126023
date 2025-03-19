@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ### social
 
-- <div style="display:flex !important;align-items:center"><img height="16" width="16" src="https://bu.dusays.com/2022/05/17/6283c38e6368f.ico" style="margin-right:4px"> <a href="https://fe32.top/">个人网站，访问量（换过两次域名）累计50w+ </a> </div>
+- <a href="https://blog.csdn.net/qq_41356250/"><img height="16" width="16" src="https://g.csdnimg.cn/static/logo/6283c38e6368f.ico" style="margin-right:4px"> 个人网站，访问量（换过两次域名）累计60w+  </a><br>
 - <a href="https://blog.csdn.net/qq_41356250/"><img height="16" width="16" src="https://g.csdnimg.cn/static/logo/favicon32.ico" style="margin-right:4px"> CSDN主页，访问量19w+,粉丝累计 14000+ </a><br>
 - <a href="https://juejin.cn/user/932843481465774"><img height="16" width="16" src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web//static/favicons/favicon-16x16.png" style="margin-right:4px"> 掘金主页，访问量7w+,粉丝累计200+</a>
 
