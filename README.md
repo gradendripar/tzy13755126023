@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 ![Vue](https://img.shields.io/badge/-Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=reactt&logoColor=white)
 ![Nextjs](https://img.shields.io/badge/next.js-23E34F26?style=flat&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![Tailwind Css](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&amp;logoColor=white) \
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) \
+![Tailwind Css](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&amp;logoColor=white)
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-333333?style=flat&logo=express&logoColor=white)
 ![Nestjs](https://img.shields.io/badge/nestjs-EA275C.svg?logo=nestjs&logoColor=white)
@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 ![CentOS](https://img.shields.io/badge/CentOS-002260?logo=centos&logoColor=F0F0F0)
 ![Ngnix](https://img.shields.io/badge/nginx-1EA51F.svg?logo=nginx&logoColor=white)
 ![rabbitMQ](https://img.shields.io/badge/rabbitMQ-FF6600.svg?logo=rabbitMQ&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
-![Hexo](https://img.shields.io/badge/-Hexo-333333?style=flat&logo=Hexo&logoColor=white)\
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)\
+![Hexo](https://img.shields.io/badge/-Hexo-333333?style=flat&logo=Hexo&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-333333?style=flat&logo=Gulp&logoColor=white)
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=white)
