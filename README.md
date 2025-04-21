@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tzy13755126023&count_private=true&show_icons=true"/>
 
 ### 🛠 &nbsp;Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/-Css3-2691CC?style=flat&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
