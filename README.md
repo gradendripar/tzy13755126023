@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 ### ⭐️ &nbsp;Github Star
 
 <div style="width:100%;display:flex;justify-contens:space-betweem">
-      <img width="550px" height="230"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tzy13755126023&count_private=true&show_icons=true"/>
-      <img width="430px" height="230" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+      <img width="550px" height="230px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tzy13755126023&count_private=true&show_icons=true"/>
+      <img width="430px" height="230px" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 </div>
 
 
