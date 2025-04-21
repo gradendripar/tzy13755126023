@@ -47,11 +47,7 @@ Here are some ideas to get you started:
 ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)\
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)
-![Webpack](https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg)
-
 ![PUG](https://img.shields.io/badge/-Pug-333333?style=flat&logo=PUG)
-![Gulp](https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg)
 ![Hexo](https://img.shields.io/badge/-Hexo-333333?style=flat&logo=Hexo)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express.com)
