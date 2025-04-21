@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D)\
 ![React](https://img.shields.io/badge/-React-2320232a?style=flat&logo=react&logoColor=%2361DAFB)
-![Nextjs](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Nextjs](https://img.shields.io/badge/next.js-000000?style=flat&logo=Nextjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
 ![Tailwind Css](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&amp;logoColor=white)
 ![PUG](https://img.shields.io/badge/-Pug-333333?style=flat&logo=PUG&logoColor=white)
