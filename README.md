@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&amp;logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&amp;logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)\
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
