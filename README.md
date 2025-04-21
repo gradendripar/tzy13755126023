@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ### ⭐️ &nbsp;Github Star
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tzy13755126023&count_private=true&show_icons=true"/>
+<img width="500px"  alt="GitHub Stats" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzR3OG55Nzc4a2ViZzFxcWVnM3Q5ZTk0bW8yYm5pMzlxMWpocWs0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&amp;logoColor=white)
@@ -77,7 +78,7 @@ Here are some ideas to get you started:
 - <a href="https://juejin.cn/user/932843481465774">掘金主页 </a>
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:ethan4116@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-ethan4116@163.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:fe32top@88.com"><img alt="Email" src="https://img.shields.io/badge/Email-fe32top@88.com-blue?style=flat-square&logo=gmail"></a>
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
