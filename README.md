@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&amp;logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&amp;logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D)\
 ![React](https://img.shields.io/badge/-React-2320232a?style=flat&logo=react&logoColor=%2361DAFB)
@@ -54,7 +55,7 @@ Here are some ideas to get you started:
 ![PUG](https://img.shields.io/badge/-Pug-333333?style=flat&logo=PUG)
 ![Hexo](https://img.shields.io/badge/-Hexo-333333?style=flat&logo=Hexo)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
-![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express.com)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)\
 ![Mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
