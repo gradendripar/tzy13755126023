@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ![Tailwind Css](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&amp;logoColor=white)
 ![PUG](https://img.shields.io/badge/-Pug-333333?style=flat&logo=PUG&logoColor=white)
 ![Hexo](https://img.shields.io/badge/-Hexo-333333?style=flat&logo=Hexo&logoColor=white)
-![Gulp](https://img.shields.io/badge/Gulp-EB4A4B?style=flat&logo=Gulp&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-333333?style=flat&logo=Gulp&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-333333?style=flat&logo=Webpack&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-333333?style=flat&logo=express&logoColor=white)
