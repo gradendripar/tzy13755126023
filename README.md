@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img width="500px"  alt="GitHub Stats" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzR3OG55Nzc4a2ViZzFxcWVnM3Q5ZTk0bW8yYm5pMzlxMWpocWs0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"/>
-
 <pre>
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
@@ -39,7 +36,12 @@ Here are some ideas to get you started:
 
 ### ⭐️ &nbsp;Github Star
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tzy13755126023&count_private=true&show_icons=true"/>
+<div style="display:flex;justify-contens:space-betweem">
+      <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tzy13755126023&count_private=true&show_icons=true"/>
+      <img width="500px"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzR3OG55Nzc4a2ViZzFxcWVnM3Q5ZTk0bW8yYm5pMzlxMWpocWs0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+</div>
+
+
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&amp;logoColor=white)
