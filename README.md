@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <div style="display:flex;justify-contens:space-betweem">
       <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tzy13755126023&count_private=true&show_icons=true"/>
-      <img width="500px"  src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"/>
+      <img width="400px"  src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"/>
 </div>
 
 
