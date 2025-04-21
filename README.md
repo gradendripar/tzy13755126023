@@ -40,13 +40,18 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)\
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)
+![Webpack](https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg)
+
 ![PUG](https://img.shields.io/badge/-Pug-333333?style=flat&logo=PUG)
+![Gulp](https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg)
 ![Hexo](https://img.shields.io/badge/-Hexo-333333?style=flat&logo=Hexo)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express.com)
