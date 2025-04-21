@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&amp;logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/-React-83E0FA?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=reactt&logoColor=white)
+![Nextjs](https://img.shields.io/badge/next.js-23E34F26?style=flat&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
 ![Tailwind Css](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&amp;logoColor=white) \
-![Nextjs](https://img.shields.io/badge/next.js-23E34F26?style=flat&logo=next.js&logoColor=white)
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-333333?style=flat&logo=express&logoColor=white)
 ![Nestjs](https://img.shields.io/badge/nestjs-EA275C.svg?logo=nestjs&logoColor=white)
