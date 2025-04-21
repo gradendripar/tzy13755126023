@@ -40,13 +40,15 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&amp;logoColor=white)
-![CSS3](https://img.shields.io/badge/-Css3-2691CC?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&amp;logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&amp;logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)\
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Tailwind Css](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&amp;logoColor=white)
 ![PUG](https://img.shields.io/badge/-Pug-333333?style=flat&logo=PUG)
 ![Hexo](https://img.shields.io/badge/-Hexo-333333?style=flat&logo=Hexo)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
