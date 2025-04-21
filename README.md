@@ -72,9 +72,9 @@ Here are some ideas to get you started:
 
 ### social
 
-- <a href="https://fe32.top/"><img height="16" width="16" src="https://bu.dusays.com/2024/03/26/6602e8690b3bb.ico" style="margin-right:4px"> 个人网站，访问量（换过两次域名）累计60w+  </a><br>
-- <a href="https://blog.csdn.net/qq_41356250/"><img height="16" width="16" src="https://g.csdnimg.cn/static/logo/favicon32.ico" style="margin-right:4px"> CSDN主页，访问量19w+,粉丝累计 14000+ </a><br>
-- <a href="https://juejin.cn/user/932843481465774"><img height="16" width="16" src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web//static/favicons/favicon-16x16.png" style="margin-right:4px"> 掘金主页，访问量7w+,粉丝累计200+</a>
+- <a href="https://fe32.top/"> 个人博客 </a><br>
+- <a href="https://blog.csdn.net/qq_41356250/">CSDN主页 </a><br>
+- <a href="https://juejin.cn/user/932843481465774">掘金主页 </a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:ethan4116@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-ethan4116@163.com-blue?style=flat-square&logo=gmail"></a>
